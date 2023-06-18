@@ -1,6 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Photo from "../assets/maggierecio.jpeg";
+import "./card.css";
 import { FaLinkedinIn, FaGithub } from "react-icons/fa";
 
 const InfoCard: React.FC = () => {
@@ -25,6 +26,16 @@ const InfoCard: React.FC = () => {
           alt="Maggie photo"
           className="mt-3 mb-3 rounded-xl"
         />
+        <div className="cvBtn flex justify-center mt-5 mb-5">
+          <button className="bookmarkBtn">
+            <span className="IconContainer">
+              <svg viewBox="0 0 384 512" height="0.9em" className="icon">
+                <path d="M0 48V487.7C0 501.1 10.9 512 24.3 512c5 0 9.9-1.5 14-4.4L192 400 345.7 507.6c4.1 2.9 9 4.4 14 4.4c13.4 0 24.3-10.9 24.3-24.3V48c0-26.5-21.5-48-48-48H48C21.5 0 0 21.5 0 48z"></path>
+              </svg>
+            </span>
+            <p className="text">my CV</p>
+          </button>
+        </div>
         <p className="flex justify-center font-normal text-gray-700 dark:text-gray-400 hover:text-white">
           <a href="mailto:m.reciogrom@gmail.com">m.reciogrom@gmail.com</a>
         </p>
@@ -43,11 +54,11 @@ const InfoCard: React.FC = () => {
             <FaGithub className="text-white text-3xl ml-3 hover:animate-bounce" />
           </a>
         </div>
-        <a href="mailto:m.reciogrom@gmail.com">
-          <button className="text-white mt-5 mb-3 bg-fuchsia-400 w-full p-2 rounded-3xl text-center text-lg">
-            Contact me
-          </button>
-        </a>
+        <div className="flex justify-center">
+          <a href="mailto:m.reciogrom@gmail.com">
+            <button className="contactBtn mt-7" id="contactBtn">Contact me</button>
+          </a>
+        </div>
       </div>
     </>
   );

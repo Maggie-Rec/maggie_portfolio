@@ -1,0 +1,21 @@
+/*
+ * ATTENTION: An "eval-source-map" devtool has been used.
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file with attached SourceMaps in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+self["webpackHotUpdate_N_E"]("app/page",{
+
+/***/ "(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fmaggierecio%2FDesktop%2FMaggie%2FProjects%2Fmaggiesite%2Fmaggie-site%2Fsrc%2Fapp%2Fassets%2Fmaggierecio.jpeg&modules=%2FUsers%2Fmaggierecio%2FDesktop%2FMaggie%2FProjects%2Fmaggiesite%2Fmaggie-site%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage.js&server=false!":
+/*!********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fmaggierecio%2FDesktop%2FMaggie%2FProjects%2Fmaggiesite%2Fmaggie-site%2Fsrc%2Fapp%2Fassets%2Fmaggierecio.jpeg&modules=%2FUsers%2Fmaggierecio%2FDesktop%2FMaggie%2FProjects%2Fmaggiesite%2Fmaggie-site%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage.js&server=false! ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ (function(__unused_webpack_module, __unused_webpack_exports, __webpack_require__) {
+
+eval(__webpack_require__.ts("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./src/app/assets/maggierecio.jpeg */ \"(app-client)/./src/app/assets/maggierecio.jpeg\"));\nPromise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ./node_modules/next/dist/client/image.js */ \"(app-client)/./node_modules/next/dist/client/image.js\", 23))//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKGFwcC1jbGllbnQpLy4vbm9kZV9tb2R1bGVzL25leHQvZGlzdC9idWlsZC93ZWJwYWNrL2xvYWRlcnMvbmV4dC1mbGlnaHQtY2xpZW50LWVudHJ5LWxvYWRlci5qcz9tb2R1bGVzPSUyRlVzZXJzJTJGbWFnZ2llcmVjaW8lMkZEZXNrdG9wJTJGTWFnZ2llJTJGUHJvamVjdHMlMkZtYWdnaWVzaXRlJTJGbWFnZ2llLXNpdGUlMkZzcmMlMkZhcHAlMkZhc3NldHMlMkZtYWdnaWVyZWNpby5qcGVnJm1vZHVsZXM9JTJGVXNlcnMlMkZtYWdnaWVyZWNpbyUyRkRlc2t0b3AlMkZNYWdnaWUlMkZQcm9qZWN0cyUyRm1hZ2dpZXNpdGUlMkZtYWdnaWUtc2l0ZSUyRm5vZGVfbW9kdWxlcyUyRm5leHQlMkZkaXN0JTJGY2xpZW50JTJGaW1hZ2UuanMmc2VydmVyPWZhbHNlISIsIm1hcHBpbmdzIjoiQUFBQSxxTEFBc0k7QUFDdEkiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLz8xODYxIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiL1VzZXJzL21hZ2dpZXJlY2lvL0Rlc2t0b3AvTWFnZ2llL1Byb2plY3RzL21hZ2dpZXNpdGUvbWFnZ2llLXNpdGUvc3JjL2FwcC9hc3NldHMvbWFnZ2llcmVjaW8uanBlZ1wiKTtcbmltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiICovIFwiL1VzZXJzL21hZ2dpZXJlY2lvL0Rlc2t0b3AvTWFnZ2llL1Byb2plY3RzL21hZ2dpZXNpdGUvbWFnZ2llLXNpdGUvbm9kZV9tb2R1bGVzL25leHQvZGlzdC9jbGllbnQvaW1hZ2UuanNcIikiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(app-client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%2FUsers%2Fmaggierecio%2FDesktop%2FMaggie%2FProjects%2Fmaggiesite%2Fmaggie-site%2Fsrc%2Fapp%2Fassets%2Fmaggierecio.jpeg&modules=%2FUsers%2Fmaggierecio%2FDesktop%2FMaggie%2FProjects%2Fmaggiesite%2Fmaggie-site%2Fnode_modules%2Fnext%2Fdist%2Fclient%2Fimage.js&server=false!\n"));
+
+/***/ })
+
+});

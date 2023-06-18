@@ -9,11 +9,11 @@ import MainPage from "./components/mainScroll";
 const Home: React.FC = () => {
   return (
     <>
-      <div className="grid grid-cols-3">
+      <div className="grid grid-cols-3 ">
         <InfoCard />
-      
-        <div className="grid col-span-2 mt-10">
-     <MainPage />
+
+        <div className="grid col-span-2 mt-10 grid-rows-3">
+          <MainPage />
         </div>
       </div>
     </>
